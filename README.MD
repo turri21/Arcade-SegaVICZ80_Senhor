@@ -1,3 +1,8 @@
+-=(SegaVICZ80_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # VIC Z80 by Gremlin Industries/Sega Enterprises for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 An FPGA implementation of Z80-based VIC (Video Interface Chip) era arcade hardware by Gremlin Industries/Sega Enterprises for the MiSTer platform.
